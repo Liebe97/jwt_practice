@@ -58,11 +58,15 @@ buck-out/
 # CocoaPods
 /ios/Pods/
 
-# react-native, node module
+# react-native module
 /jwt/node_modules
 /jwt/package-lock.json
 /jwt/ios/Pods
 /jwt/ios/Podfile.lock
 
-# node
-.env
+# node module
+/jwtback/package-lock.json
+/jwtback/node_modules
+
+# node env
+/jwtback/config.env
