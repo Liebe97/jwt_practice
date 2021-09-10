@@ -63,3 +63,6 @@ buck-out/
 /jwt/package-lock.json
 /jwt/ios/Pods
 /jwt/ios/Podfile.lock
+
+# node
+.env
